@@ -12,4 +12,5 @@ export const Button1=(props:ButtonType)=>{
     return(
         <button className="b1" disabled={props.hide && props.count>=maxcount} onClick={props.onClickHandler}>{props.name}</button>
     )
+
 }
