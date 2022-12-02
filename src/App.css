@@ -1,7 +1,37 @@
 .App {
   text-align: center;
+  height: 70%;
 }
+.counter{  height: 100px;
+  background-color: #282c34;
+  text-align: center;
+  width: 30%;
+  margin-left: 35%;
+}
+.count{
 
+}
+.title{
+  position: center;
+  width: 90%;
+  background-color: #61dafb;
+  border-radius: 10px;
+margin-left: 5%;
+  height: 50px;
+}
+.buttons{
+  border-color: #61dafb;
+  border-radius: 10px;
+  width: 90%;
+  margin-left: 5%;
+  border-style: solid;
+}
+.button{
+  background-color: #61dafb;
+  width: 20%;
+}
+.b1{background-color: #61dafb;
+border-radius: 9px}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
